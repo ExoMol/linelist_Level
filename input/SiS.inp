@@ -1,0 +1,8 @@
+ 1                                                                     (number of intensity files)
+2832_fort8_LEVEL_trans.txt                                             (int file)
+2832_fort9_LEVEL_states.txt                                                  (enery file)
+SiS_01.trans                                                           ( Transition file               
+SiS_01.states                                                          ( Energy file )                 
+1                                                                      ( gns )
+6                                                                      (delta V)
+
